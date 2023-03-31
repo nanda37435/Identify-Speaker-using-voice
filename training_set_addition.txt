@@ -1,0 +1,45 @@
+sai-sample0.wav
+sai-sample1.wav
+sai-sample2.wav
+sai-sample3.wav
+sai-sample4.wav
+utube-sample0.wav
+utube-sample1.wav
+utube-sample2.wav
+utube-sample3.wav
+utube-sample4.wav
+utube2-sample0.wav
+utube2-sample1.wav
+utube2-sample2.wav
+utube2-sample3.wav
+utube2-sample4.wav
+utube3-sample0.wav
+utube3-sample1.wav
+utube3-sample2.wav
+utube3-sample3.wav
+utube3-sample4.wav
+sivaram-sample0.wav
+sivaram-sample1.wav
+sivaram-sample2.wav
+sivaram-sample3.wav
+sivaram-sample4.wav
+sadhguru-sample0.wav
+sadhguru-sample1.wav
+sadhguru-sample2.wav
+sadhguru-sample3.wav
+sadhguru-sample4.wav
+a gut story-sample0.wav
+a gut story-sample1.wav
+a gut story-sample2.wav
+a gut story-sample3.wav
+a gut story-sample4.wav
+gajendra-sample0.wav
+gajendra-sample1.wav
+gajendra-sample2.wav
+gajendra-sample3.wav
+gajendra-sample4.wav
+daba kathalu-sample0.wav
+daba kathalu-sample1.wav
+daba kathalu-sample2.wav
+daba kathalu-sample3.wav
+daba kathalu-sample4.wav

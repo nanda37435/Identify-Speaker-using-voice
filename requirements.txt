@@ -1,0 +1,9 @@
+os-sys
+Wave
+pickle5
+PyAudio
+pytest-warnings
+numpy
+scikit-learn
+SciPy
+python_speech_features
